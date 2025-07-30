@@ -26,7 +26,7 @@ pip (Python package manager)
 
 Clone the Repository
 
-git clone https://github.com/yourusername/sentiment-adaptive-chatbot.git
+git clone https://github.com/akhilkoduriak/sentiment-adaptive-chatbot.git
 cd sentiment-adaptive-chatbot
 
 Install Required Libraries
